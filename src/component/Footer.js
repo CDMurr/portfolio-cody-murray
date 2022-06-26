@@ -13,7 +13,7 @@ function Footer(){
                 </li>
 
                 <li>
-                    <a href="/contact">Contact</a>
+                    <a href="/contact">Twitter</a>
                 </li>
             </ul>
         </footer>

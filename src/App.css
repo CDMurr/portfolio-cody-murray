@@ -9,6 +9,17 @@
   padding: 20px 40px;
 }
 
+.footer {
+  display: flex;
+  float: right;
+  width: 50%;
+  padding: 20px 40px;
+  margin-right: 40px;
+  gap: 20px;
+  list-style-type: none;
+  font-size: 24px;
+  
+}
 .nav {
   display: flex;
   padding: 10px;
@@ -17,5 +28,6 @@
   list-style-type: none;
   font-size: 24px;
 }
+
 
 
