@@ -29,5 +29,49 @@
   font-size: 24px;
 }
 
+.aboutme .row {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  padding: 40px;
+}
+
+.aboutme h2 {
+  text-align: center;
+}
+
+.aboutme p {
+  /* background-color: antiquewhite; */
+}
+
+.aboutme img {
+  border-radius: 50%;
+  width: 300px;
+}
+
+.skills h3 {
+  text-align: center;
+}
+
+.skillgroup {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+}
+
+.skills {
+  padding: 0;
+}
 
 
+@media only screen and (min-width: 768px) {
+  .aboutme .row {
+    flex-direction: row;
+  }
+  .skillgroup {
+    max-height: 120px;
+  }
+}
