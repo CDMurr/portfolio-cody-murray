@@ -19,6 +19,11 @@ const ContactForm = () => {
             </div>
             <button type="submit">Submit</button>
           </form>
+
+        <div><p>Contact Info</p>
+          <h6> codymurray.dev@gmail.com</h6>
+          <h6> 979-900-6011</h6>
+          </div>
         </section>
         );
       

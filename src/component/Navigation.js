@@ -17,7 +17,7 @@ function Navigation({setCurrentPage}){
         </li>
 
         <li>
-            <a href="/resume">Resume</a>
+        <button onClick={() => setCurrentPage('resume')}>Resume</button>
         </li>
         </ul>
     )
