@@ -13,7 +13,7 @@ function Footer(){
                 </li>
 
                 <li>
-                    <a href="/contact">Twitter</a>
+                    <a href="https://stackoverflow.com/users/19422347/cody-murray" target="_blank" rel="noreferrer noopener" >StackOverFlow</a>
                 </li>
             </ul>
         </footer>
