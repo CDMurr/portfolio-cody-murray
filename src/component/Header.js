@@ -1,13 +1,13 @@
 import React from "react";
 import Navigation from "./Navigation";
 
-function Header() {
+function Header({setCurrentPage}) {
 
     
     return(
         <header className='header'>
             <h1>Cody Murray</h1>
-            <Navigation />
+            <Navigation setCurrentPage={setCurrentPage} />
         </header>
     )
 }

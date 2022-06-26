@@ -1,19 +1,19 @@
 import React from "react";
 
-function Navigation(){
+function Navigation({setCurrentPage}){
 
     return (
         <ul className='nav'>
         <li>
-            <a href="/about">About</a>
+            <button onClick={() => setCurrentPage('aboutMe')}>About</button>
         </li>
 
         <li>
-            <a href="/portfolio">Portfolio</a>
+            <button onClick={() => setCurrentPage('portfolio')}>Portfolio</button>
         </li>
 
         <li>
-            <a href="/contact">Contact</a>
+            <button onClick={() => setCurrentPage('contact')}>Contact</button>
         </li>
 
         <li>

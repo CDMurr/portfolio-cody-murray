@@ -3,7 +3,7 @@ import profileimg from "../assets/profile-pic.jpg";
 
 const About = () => {
     return (
-        <section className="aboutme">
+        <section id="about" className="aboutme">
             <h2>About ME</h2>
             <div className="row">
             <img src={profileimg}></img>
