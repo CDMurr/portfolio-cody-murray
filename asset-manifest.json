@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-cody-murray/static/css/main.0d60b5b6.css",
+    "main.css": "/portfolio-cody-murray/static/css/main.36351247.css",
     "main.js": "/portfolio-cody-murray/static/js/main.e515d4ad.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-cody-murray/static/js/787.1ed0c42c.chunk.js",
     "static/media/radar-menu.jpg": "/portfolio-cody-murray/static/media/radar-menu.204b04e92a9b45e09072.jpg",
@@ -12,12 +12,12 @@
     "static/media/Create-New-Password.jpg": "/portfolio-cody-murray/static/media/Create-New-Password.e0e4ef4d5b86d7e033a2.jpg",
     "static/media/note-taker-3000-img.jpg": "/portfolio-cody-murray/static/media/note-taker-3000-img.b8596c178bc5508bcb9e.jpg",
     "index.html": "/portfolio-cody-murray/index.html",
-    "main.0d60b5b6.css.map": "/portfolio-cody-murray/static/css/main.0d60b5b6.css.map",
+    "main.36351247.css.map": "/portfolio-cody-murray/static/css/main.36351247.css.map",
     "main.e515d4ad.js.map": "/portfolio-cody-murray/static/js/main.e515d4ad.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-cody-murray/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d60b5b6.css",
+    "static/css/main.36351247.css",
     "static/js/main.e515d4ad.js"
   ]
 }
