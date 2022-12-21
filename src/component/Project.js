@@ -98,14 +98,13 @@ function Project() {
 
                 <li>
                     <h6>Note Taker 3000</h6>
-
+                    <br></br>
                     {
                         <a
                             href="https://note3000taker.herokuapp.com/notes"
                             target="_blank"
                             rel="noreferrer noopener"
                         >
-                            Live Url/Heroku free no longer supported
                             <img src={project4img} />
                         </a>
                     }
